@@ -5,8 +5,11 @@ Single-molecule tracking (SMT) using proximity-assisted photoactivation (PAPA) i
 
 ## Example of a Published Figure  
 ![project_example_figure](https://github.com/user-attachments/assets/357f9478-5547-4736-ad6a-6e8b3d86faf6)  
+Calculation of the proximity index. The total number of localizations in each frame are counted before and after violet and green light pulses. In our project, the data we will be using will use spontaneous fluorescence instead of violet-reactivated localizations.  
+
 
 ## Datasets  
+Data kindly provided by Thomas Graham and Nicholas Alagna  
 
 ## Software Versions  
 Python v3.12.3 https://www.python.org/  

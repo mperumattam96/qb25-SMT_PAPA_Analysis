@@ -14,7 +14,7 @@ Data kindly provided by Thomas Graham and Nicholas Alagna. Example data in "data
 ## Software Versions  
 Python v3.12.3 https://www.python.org/.   
 * NumPy   
-* argparse  
+* argparse      
 R v4.4.1 https://www.r-project.org/  
 * tidyverse  
 * ggplot  

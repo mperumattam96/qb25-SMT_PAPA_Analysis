@@ -1,4 +1,4 @@
-# First Project Check-In 10242025. 
+# First Project Check-In 10242025    
 
 
 ## Prior Feedback   

@@ -1,6 +1,7 @@
-#First Project Check-In 10242025  
+# First Project Check-In 10242025. 
 
-##Prior Feedback   
+
+## Prior Feedback   
 During our initial meeting, we made sure we had deliverables to ensure progress was being made. We will not be converting the imaging data ourselves, but use the csv file generated from the experimental microscopy data. Our first goal was reasonable, and our stretch goals expanded on that.   
 
 ## Progress   
@@ -9,6 +10,6 @@ We have completed Goal 1! We utilized three python packages (numpy, pandas, and 
 ## Project Organization   
 We have uploaded the csv file of the data we are analyzing in the data directory (PAPA_0000_0000_trajs.csv). This is data Nicholas collected himself. We have uploaded our current progress on the code in the code directory (Project_Work.ipynb).  
 
-##Struggles/Questions  
+## Struggles/Questions  
 As we have successfully completed Goal 1, we are trying to create a script that has a for loop to iterate through multiple files to perform the same function as we did for Goal 1, so we might need help with this next step. The glob module allows us to select all files of the same kind (in our case csv) in the same folder and run the script on it. From that, we will be able to then make plots of the ratio of trajectories/frame for PAPA to spontaneous reactivation.  
 

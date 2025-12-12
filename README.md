@@ -22,4 +22,7 @@ R v4.4.1 https://www.r-project.org/
 ## Goals
 Main goal: Using a Python script, read in the CSV file obtained from SMT data and tabulate the number of localizations per frame. We will begin with a CSV file that is based on segmentation from a single cell, and focus on columns x, y, frame, and trajectory.  
 Stretch Goal 1: Adding onto goal one, factor in background from spontaneous activation. We will extrapolate spontaneous activation after the green light pulse and perform background subtraction.  
-Stretch Goal 2: We will look to see if PAPA signal correlates to other properties in the cell. These other properties come from cell segmentation data.  
+Stretch Goal 2: We will look to see if PAPA signal correlates to other properties in the cell. These other properties come from cell segmentation data.    
+
+## Final Presentation 
+https://docs.google.com/presentation/d/18htI1pPVnuaStuEToq8l2orn6DnJS3FLkf-jiLvnork/edit?usp=sharing
